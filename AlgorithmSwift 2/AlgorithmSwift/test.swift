@@ -15,5 +15,5 @@ func test() {
     print(a!)
     print(Int(a!))
 }
-test()
-print(123)
+//test()
+//print(123)
